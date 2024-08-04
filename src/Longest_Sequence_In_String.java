@@ -11,7 +11,7 @@ public class Longest_Sequence_In_String {
         return(s1.substring(0,a)) ;
     }
     public static void main(String [] args){
-        String s= "abcabc" ;
+        String s= "kapilka" ;
 
         String emp = "" ;
         String seq = "" ;
